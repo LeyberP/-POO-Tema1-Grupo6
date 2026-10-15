@@ -1,0 +1,10 @@
+@startuml
+title Diagrama de Clase Estudiante
+class Estudiante {
+  - nombre : String
+  - apellido : String
+  - edad : int
+  - carrera : String
+  - semestre : int
+}
+@enduml
