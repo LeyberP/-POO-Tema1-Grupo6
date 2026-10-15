@@ -34,6 +34,8 @@ POO-Tema1-GrupoN/
 ├── .gitignore                   # Archivos excluidos del control de versiones (Joseph)
 └── README.md                    # Documentación general del proyecto (Matías / Marlon)
 
+
+```
 ## 🚀 Instrucciones de Clonación y Ejecución
 
 Sigue estos pasos para clonar, compilar y ejecutar el proyecto desde la terminal o tu IDE de preferencia (Visual Studio Code, Apache NetBeans, IntelliJ IDEA):
@@ -43,6 +45,11 @@ Sigue estos pasos para clonar, compilar y ejecutar el proyecto desde la terminal
 * **Git:** Instalado en el sistema operativo.
 
 ### Step-by-Step
+
+1. **Clonar el repositorio:**
+   Abre tu terminal y ejecuta el siguiente comando:
+   ```bash
+   git clone [https://github.com/TuUsuario/POO-Tema1-GrupoN.git](https://github.com/TuUsuario/POO-Tema1-GrupoN.git)
 
 1. **Clonar el repositorio:**
    Abre tu terminal y ejecuta el siguiente comando:
