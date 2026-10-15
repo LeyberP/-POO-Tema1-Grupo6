@@ -55,3 +55,33 @@ Sigue estos pasos para clonar, compilar y ejecutar el proyecto desde la terminal
    Abre tu terminal y ejecuta el siguiente comando:
    ```bash
    git clone [https://github.com/TuUsuario/POO-Tema1-GrupoN.git](https://github.com/TuUsuario/POO-Tema1-GrupoN.git)
+
+## Actividad 2: Diagrama de Clase Estudiante
+
+### Objetivo
+Diseñar la clase Estudiante para el sistema académico de la Universidad Técnica de Ambato, identificando sus atributos y tipos de datos mediante UML.
+
+### Atributos
+
+| Atributo | Tipo | Descripción | Ejemplo |
+|---|---|---|---|
+| nombre | String | Nombre del estudiante | Carlos |
+| apellido | String | Apellido del estudiante | Pérez |
+| edad | int | Edad en años cumplidos | 20 |
+| carrera | String | Carrera universitaria | Software |
+| semestre | int | Semestre académico actual | 2 |
+
+### Validaciones propuestas
+- nombre y apellido: no deben estar vacíos.
+- edad: número entero positivo; se propone de 15 a 100 años para este ejercicio.
+- carrera: debe corresponder a una carrera registrada.
+- semestre: entero desde 1 hasta el máximo permitido por la carrera.
+
+### Diagrama UML
+![Diagrama UML de Estudiante](documentos/diagrama_clase.png)
+
+### Código fuente PlantUML
+[Ver diagrama_clase.puml](documentos/diagrama_clase.puml)
+
+### Conclusión
+El diagrama UML representa la estructura de la clase Estudiante con cinco atributos privados y permite orientar su implementación posterior en Java.
