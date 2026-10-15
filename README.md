@@ -49,13 +49,15 @@ Sigue estos pasos para clonar, compilar y ejecutar el proyecto desde la terminal
 1. **Clonar el repositorio:**
    Abre tu terminal y ejecuta el siguiente comando:
    ```bash
-   git clone [https://github.com/TuUsuario/POO-Tema1-GrupoN.git](https://github.com/TuUsuario/POO-Tema1-GrupoN.git)
+   git clone https://github.com
+   ```
 
-1. **Clonar el repositorio:**
-   Abre tu terminal y ejecuta el siguiente comando:
-   ```bash
-   git clone [https://github.com/TuUsuario/POO-Tema1-GrupoN.git](https://github.com/TuUsuario/POO-Tema1-GrupoN.git)
+2. **Abrir el proyecto:**
+   Abre la carpeta del proyecto en tu IDE favorito (NetBeans, VS Code o IntelliJ IDEA).
 
+3. **Ejecutar el programa:**
+   Busca el archivo `Principal.java` dentro de la carpeta `src`, dale clic derecho y selecciona **Run File** (o Ejecutar).
+   
 ## Actividad 2: Diagrama de Clase Estudiante
 
 ### Objetivo
